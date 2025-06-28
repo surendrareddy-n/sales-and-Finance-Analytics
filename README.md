@@ -48,7 +48,7 @@ Data Visualization: Pivot Table, Power Pivot, Conditional Formatting
 
 5.Conditional Formatting: Applied Conditional Formatting techniques to enhance data presentation, showcasing trend identification.
 
-##Valuable Insights:
+## Valuable Insights:
 
 1.Amazon emerged as the top customer with net sales of 82.1 million USD in 2021, followed by Exclusive and e-store.
 
